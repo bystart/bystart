@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22Hello%2C%20World!%22);欢迎访问我的主页!&center=true&size=16">
 </h1>
 
-
-<table>
+<table width="100%">
 <tr><td>
   <!-- About me 关于我 -->
   <h3>About Me</h3> 
