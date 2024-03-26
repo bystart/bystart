@@ -3,7 +3,7 @@
 </h1>
 
 <table width="100%">
-  <tr>
+  <tr width="100%">
     <td width="100%">
       <h2>About Me</h2>
       <div>
