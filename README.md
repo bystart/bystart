@@ -7,7 +7,7 @@
     <td>
       <h2>About Me</h2>
       <div>
-        <img align="left" width="25%" src="https://avatars.githubusercontent.com/u/38885210?v=4"/>
+        <img align="left" width="25%" src="https://avatars.githubusercontent.com/u/38885210?s=500&u=64da80286a799bf58ddd6ee4c6ee7df9a9a9fe9f"/>
         <p>&emsp;&emsp;大家好，我是一位热情的Java程序员。</p>
         <p>&emsp;&emsp;热爱技术，热爱生活，追求持续学习并享受分享。</p>
         <p>&emsp;&emsp;待在这里与大家交流和学习，一同成长。</p>
