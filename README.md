@@ -5,13 +5,12 @@
 <table width="100%">
 <tr><td>
   <!-- About me 关于我 -->
-  <h3>About Me</h3> 
+  <h4>About Me</h4> 
   <div>
-  <img align="left" width="25%" src="https://avatars.githubusercontent.com/u/38885210?v=4"/>
-  <p>&emsp;&emsp;大家好，我是 Heart Yang ，深度HSP人士</p>
-  <p>&emsp;&emsp;热爱IT互联网事业，正在通过代码探索世界的美好</p>
-  <p>&emsp;&emsp;缔造属于我的梦想，如果你有兴趣和我交流，我会很开心！</p>
-    <p><strong>&emsp;&emsp;🎈Contact me_hide in URL address bar: <a href="bysatrt@qq.com"> QQ Mail ® </a> </strong></p>
+  <img align="left" width="50%" src="https://avatars.githubusercontent.com/u/38885210?v=4"/>
+  <p>&emsp;&emsp;大家好，我是一位热情的Java程序员</p>
+  <p>&emsp;&emsp;热爱技术，热爱生活，追求持续学习并享受分享</p>
+  <p>&emsp;&emsp;待在这里与大家交流和学习，一同成长</p>
   </div>
 </td></tr>
 </table>
