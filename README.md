@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Hello%2C%20World%22);欢迎访问我的主页!&center=true&size=27" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Hello%2C%20World%22);欢迎访问我的主页!&center=true&size=16" />
 </h1>
 
 <table width="100%">
