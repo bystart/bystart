@@ -7,7 +7,7 @@
     <td style="width: 100%">
       <h4 >About Me</h4> 
       <div>
-        <img align="left" width="25%" src="https://image.bystart.cn/i/2024/03/26/66028796985c7.jpg"/>
+        <img align="left" width="35%" src="https://image.bystart.cn/i/2024/03/26/66028796985c7.jpg"/>
         <p>&emsp;&emsp;大家好，我是一位热情的Java程序员。</p>
         <p>&emsp;&emsp;热爱技术，热爱生活，追求持续学习并享受分享。</p>
         <p>&emsp;&emsp;待在这里与大家交流和学习，一同成长。</p>
