@@ -1,1 +1,1 @@
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=bystart&theme=xcode" /> </div>
