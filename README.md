@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Hello%2C%20World%22);欢迎访问我的主页!&center=true&size=20" />
 </h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/images/developer.svg" height="225px" />
+  <img src="./assets/images/coding.gif" />
+</picture>
+
 <table width="100%">
   <tr>
     <td>
